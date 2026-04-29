@@ -77,5 +77,17 @@
 			"Library"
 		],
 		"github": "https://github.com/YYsuni/archive-suni"
+	},
+	{
+		"name": "箭头生成小工具",
+		"year": 2026,
+		"image": "blob:https://www.yysuni.com/7fc72f88-6eef-4b68-b378-380585996c96",
+		"url": "https://currve-arrow.yysuni.com/",
+		"description": "实时生成弧线箭头 SVG，可用于图表绘制，也可用于设计取材。",
+		"tags": [
+			"arrow"
+		],
+		"github": "https://github.com/YYsuni/curve-arrow",
+		"npm": "https://www.npmjs.com/package/curve-arrow"
 	}
 ]
