@@ -232,5 +232,15 @@
 			"3D"
 		],
 		"stars": 3
+	},
+	{
+		"name": "企鹅世界",
+		"logo": "blob:https://www.yysuni.com/c9da12f3-68f9-4632-b8c3-ccca2c71b270",
+		"url": "https://play.pudgyworld.com/",
+		"description": "风格化的可爱 web 游戏",
+		"tags": [
+			"3D"
+		],
+		"stars": 3
 	}
 ]
