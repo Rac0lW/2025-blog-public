@@ -5,19 +5,17 @@
 		"username": "RacolW"
 	},
 	"theme": {
-		"colorBrand": "#2fcbe7",
-		"colorPrimary": "#5B423F",
-		"colorSecondary": "#8b7667",
-		"colorBrandSecondary": "#eec25e",
-		"colorBg": "#d4e8f3",
-		"colorBorder": "#ffffff",
-		"colorCard": "#ffffff99",
-		"colorArticle": "#ffffffcc"
+		"colorBrand": "#2a48f3",
+		"colorPrimary": "#e6e8e8",
+		"colorSecondary": "#acadae",
+		"colorBrandSecondary": "#51d0b9",
+		"colorBg": "#0a051f",
+		"colorBorder": "#8a8a8a5e",
+		"colorCard": "#ffffff0e",
+		"colorArticle": "#6f6f6f33"
 	},
 	"backgroundColors": [
-		"#f7da3987",
-		"#8fdbe9",
-		"#fffef8"
+		"#16007b"
 	],
 	"artImages": [
 		{
@@ -33,18 +31,14 @@
 			"url": "/images/art/1c7b726fe720679b.jpg"
 		}
 	],
-	"currentArtImageId": "1c7b726fe720679b",
+	"currentArtImageId": "cat",
 	"backgroundImages": [
 		{
 			"id": "",
 			"url": ""
-		},
-		{
-			"id": "url-1777544002539",
-			"url": "https://x.com/n6wwD9OJdjnR57h/status/1820012695154049431/photo/1"
 		}
 	],
-	"currentBackgroundImageId": "url-1777544002539",
+	"currentBackgroundImageId": "",
 	"socialButtons": [
 		{
 			"id": "github",
