@@ -50,7 +50,7 @@
 			"type": "github",
 			"value": "https://github.com/rac0lw",
 			"label": "Github",
-			"order": 3
+			"order": 2
 		},
 		{
 			"id": "email",
@@ -58,6 +58,13 @@
 			"value": "racolw@outlook.com",
 			"label": "",
 			"order": 1
+		},
+		{
+			"id": "button-1777602257032",
+			"type": "link",
+			"value": "https://space.bilibili.com/19467223",
+			"label": "BiliBili",
+			"order": 3
 		}
 	],
 	"clockShowSeconds": false,
