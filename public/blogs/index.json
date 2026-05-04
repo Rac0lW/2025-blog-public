@@ -1,5 +1,19 @@
 [
   {
+    "slug": "godot_zed_macos",
+    "title": "Godot 使用 Zed Editor作为外部编辑器的配置流程(MacOS)",
+    "tags": [
+      "godot",
+      "zed",
+      "macos"
+    ],
+    "date": "2026-05-04T15:28",
+    "summary": "使用zed作为godot的外部编辑器",
+    "cover": "/blogs/godot_zed_macos/c31dc4f6a611d168.png",
+    "hidden": false,
+    "category": ""
+  },
+  {
     "slug": "upload-test",
     "title": "Rust 学习导航（仅仅用于上传测试）",
     "tags": [],
