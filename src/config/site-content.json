@@ -41,9 +41,13 @@
 		{
 			"id": "",
 			"url": ""
+		},
+		{
+			"id": "url-1777950274286",
+			"url": "https://i.pinimg.com/736x/7b/ee/23/7bee23e59daf10f2815f33f04871cbd3.jpg"
 		}
 	],
-	"currentBackgroundImageId": "",
+	"currentBackgroundImageId": "url-1777950274286",
 	"socialButtons": [
 		{
 			"id": "github",
