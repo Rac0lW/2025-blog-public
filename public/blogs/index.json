@@ -1,5 +1,19 @@
 [
   {
+    "slug": "claude-cli-zed-ssh",
+    "title": "使用Zed Editor 开启Claude Agent 步骤",
+    "tags": [
+      "zed",
+      "claude",
+      "agent",
+      "ssh"
+    ],
+    "date": "2026-05-09T09:31",
+    "summary": "开启ssh使用Claude的方法",
+    "hidden": false,
+    "category": ""
+  },
+  {
     "slug": "godot_zed_macos",
     "title": "Godot 使用 Zed Editor作为外部编辑器的配置流程(MacOS)",
     "tags": [
