@@ -1,5 +1,17 @@
 [
   {
+    "slug": "box_drawing_tips",
+    "title": "画盒子的心得",
+    "tags": [
+      "绘画"
+    ],
+    "date": "2026-05-10T20:29",
+    "summary": "",
+    "cover": "/blogs/box_drawing_tips/6dc5b9216ef8bd6f.jpg",
+    "hidden": false,
+    "category": ""
+  },
+  {
     "slug": "claude-cli-zed-ssh",
     "title": "使用Zed Editor 开启Claude Agent 步骤",
     "tags": [
