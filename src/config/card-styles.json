@@ -39,7 +39,7 @@
 		"order": 6,
 		"offsetX": -138,
 		"offsetY": 238,
-		"enabled": true
+		"enabled": false
 	},
 	"socialButtons": {
 		"width": 315,
