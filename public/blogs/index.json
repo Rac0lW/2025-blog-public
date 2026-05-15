@@ -1,5 +1,18 @@
 [
   {
+    "slug": "claude-haiku",
+    "title": "关于快速反馈的心得",
+    "tags": [
+      "claude",
+      "haiku"
+    ],
+    "date": "2026-05-15T23:46",
+    "summary": "",
+    "cover": "/blogs/claude-haiku/5444ebe286621def.jpg",
+    "hidden": false,
+    "category": ""
+  },
+  {
     "slug": "draw_a_box",
     "title": "最近在画正方形又有新的感受",
     "tags": [],
